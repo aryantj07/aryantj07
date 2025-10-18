@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Third-year B.E. student specializing in Artificial Intelligence & Machine Learning<br>🤖 Passionate about leveraging AI to solve real-world challenges and drive innovation<br>💡 Strong foundation in AI/ML concepts and hands-on experience with cutting-edge technologies<br>🚀 Eager to contribute to impactful projects and emerging tech trends<br>📚 Committed to continuous learning and staying updated with the latest in AI<br>🌐 Open to collaborations, networking, and opportunities to shape the future of tech!🔭 I’m currently working on<br>
+🎓 Final year B.E. student specializing in Artificial Intelligence & Machine Learning<br>🤖 Passionate about leveraging AI to solve real-world challenges and drive innovation<br>💡 Strong foundation in AI/ML concepts and hands-on experience with cutting-edge technologies<br>🚀 Eager to contribute to impactful projects and emerging tech trends<br>📚 Committed to continuous learning and staying updated with the latest in AI<br>🌐 Open to collaborations, networking, and opportunities to shape the future of tech!🔭 I’m currently working on<br>
 
 
 ## 🌐 Socials:
