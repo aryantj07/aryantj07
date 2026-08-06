@@ -1,5 +1,3 @@
-Aryan_Johnson_Resume(7).pdf
-PDF
 # 💫 About Me:
 AI/ML Engineer | IEEE Published Researcher | Applied AI & Intelligent Systems<br>AI/ML Engineer with interests in Healthcare AI, Ethical AI, NLP, and Intelligent Systems.<br><br>🔬 Lead author of IEEE and Springer publications focused on AI fairness, recruitment bias detection, and responsible AI.<br><br>🏥 Former Research Intern at MIT Manipal, contributing to deep learning-based medical image segmentation systems for radiotherapy planning in collaboration with Kasturba Hospital.<br><br>🚀 Currently exploring Deep Learning, LLMs, RAG systems, and scalable AI deployment.<br><br>🌱 Current Focus<br>🔭 Building AI-driven applications and research-oriented intelligent systems<br><br>🌱 Learning PyTorch, LangChain, RAG, AWS, and MLOps<br><br>👯 Looking to collaborate on AI/ML, NLP, Healthcare AI, and Open Source projects<br><br>💬 Ask me about Machine Learning, NLP, Ethical AI, Python, and Research Publications
 
