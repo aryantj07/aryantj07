@@ -97,9 +97,12 @@ Research interests include **responsible AI, fairness, and bias in intelligent s
 
 ---
 
-## Engineering Philosophy
+## GitHub Activity
 
-I enjoy working at the intersection of **software engineering and AI** — building systems that are not only intelligent, but also **reliable, maintainable, testable, and useful**.
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=aryantj07&show_icons=true&hide_border=true&theme=transparent" height="165"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=aryantj07&layout=compact&hide_border=true&theme=transparent" height="165"/>
+</p>
 
 ---
 
