@@ -1,62 +1,61 @@
 # Hi, I'm Aryan 👋
 
-### AI/ML Engineer · Applied AI · Research
+### Software Engineer · AI/ML Engineer · Applied AI
 
-I build **machine learning systems that bridge research and real-world applications**.
+I build **software and AI systems that solve practical problems**, with interests spanning **software engineering, machine learning, backend development, and intelligent applications**.
 
-My interests span **Machine Learning, Deep Learning, NLP, Healthcare AI, Responsible AI, and intelligent systems**, with a focus on turning ideas and research into practical software.
+My background combines **software engineering, applied AI, and research**, from building ML-powered applications and APIs to contributing to healthcare AI systems and responsible AI research.
 
-* 🔬 **Lead author of IEEE and Springer research** in responsible AI and AI-powered recruitment
-* 🏥 **Research experience in Healthcare AI**, working on deep-learning-based medical image segmentation for radiotherapy planning
-* 🧠 Interested in **Machine Learning, Deep Learning, NLP, LLM applications, and reliable AI systems**
-* ⚙️ Currently developing skills in **PyTorch, RAG, LangChain, AWS, and MLOps**
-* 🚀 Building projects at the intersection of **AI, software engineering, and applied problem-solving**
+* 💻 Currently strengthening my **software engineering and backend development** skills through professional training with **Revature and Persistent Systems**
+* 🤖 Building and exploring **AI/ML applications** with Python and modern ML frameworks
+* ⚙️ Interested in **backend systems, APIs, databases, testing, and scalable application development**
+* 🧠 Exploring **LLMs, RAG, and intelligent AI applications**
+* 🔬 **Lead author of IEEE and Springer publications** in responsible AI and AI-powered recruitment
+* 🚀 Focused on building strong engineering fundamentals while growing as an **AI/ML engineer**
 
 ---
 
-## What I'm Working On
+## Current Focus
 
-I'm currently focused on moving from **ML experimentation to production-oriented AI engineering**.
+### Software Engineering
 
-* Deep Learning with **PyTorch**
-* **LLM applications and RAG systems**
-* AI/ML APIs with **FastAPI**
-* Data processing and model evaluation
-* **Responsible and explainable AI**
-* Cloud deployment and **MLOps**
-* Building maintainable, production-oriented AI applications
+**Python · Backend Development · REST APIs · SQL · Git · Testing**
+
+### AI / Machine Learning
+
+**Machine Learning · Deep Learning · NLP · Model Evaluation · Data Processing**
+
+### Exploring
+
+**LLMs · RAG · PyTorch · AWS · Docker · MLOps**
 
 ---
 
 ## Selected Work
 
-### 🧬 Healthcare AI
+### 📄 Resume Intelligence
 
-Contributed to a deep learning SaaS platform for **automated organ segmentation in radiotherapy planning**, working on medical image preprocessing, segmentation workflows, and model evaluation using **Dice coefficient and IoU**.
+NLP-based resume analysis and candidate-ranking system using **Python, Streamlit, and Scikit-learn**.
 
-### 📄 NLP & Resume Intelligence
+### ⚖️ EthixAI
 
-Built an NLP-based **resume analysis and candidate-ranking system** using Python, Streamlit, and Scikit-learn. Implemented **TF-IDF, cosine similarity, configurable scoring, keyword highlighting, and recruiter-oriented visualizations**.
+AI auditing platform for **fairness analysis, bias detection, explainability, and responsible AI evaluation**.
 
-### ⚖️ Responsible AI
+### 🌍 SAFE-R
 
-Developed **EthixAI**, an AI auditing platform focused on **fairness analysis, bias detection, privacy risk assessment, explainability, and responsible ML evaluation**.
-
-### 🌍 Intelligent Disaster Simulation
-
-Working on **SAFE-R**, a disaster simulation and routing system combining **physics-based calculations, geospatial visualization, and web technologies** to model urban risk and support emergency planning.
+Intelligent disaster simulation and routing system combining **FastAPI, React, Three.js, NumPy, and Pandas**.
 
 ---
 
-## Research
+## Research & Publications
 
-My research focuses on **responsible AI, fairness, and bias in intelligent systems**.
+Research interests include **responsible AI, fairness, and bias in intelligent systems**.
 
 ### An Ethical AI Framework for Identifying, Auditing and Mitigating Bias in AI Models
 
 **Lead Author · IEEE ICTCT 2025 · Published in IEEE Xplore**
 
-[IEEE Xplore — Publication](https://ieeexplore.ieee.org/document/11446876)
+[View Publication →](https://ieeexplore.ieee.org/document/11446876)
 
 ### An Interactive Reverse Turing Test Framework to Uncover Bias in AI-Powered Recruitment
 
@@ -73,7 +72,7 @@ My research focuses on **responsible AI, fairness, and bias in intelligent syste
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square\&logo=c\&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square\&logo=c%2B%2B\&logoColor=white)
 
-### Machine Learning & Data
+### AI / Machine Learning
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square\&logo=scikit-learn\&logoColor=white)
@@ -81,7 +80,7 @@ My research focuses on **responsible AI, fairness, and bias in intelligent syste
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white)
 
-### Application & Infrastructure
+### Backend & Application Development
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square\&logo=streamlit\&logoColor=white)
@@ -94,21 +93,19 @@ My research focuses on **responsible AI, fairness, and bias in intelligent syste
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square\&logo=jupyter\&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square\&logo=latex\&logoColor=white)
 
 ---
 
-## GitHub Activity
+## Engineering Philosophy
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=aryantj07&show_icons=true&hide_border=true&theme=transparent" height="165"/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=aryantj07&layout=compact&hide_border=true&theme=transparent" height="165"/>
-</p>
+I enjoy working at the intersection of **software engineering and AI** — building systems that are not only intelligent, but also **reliable, maintainable, testable, and useful**.
 
 ---
 
 ## Let's Connect
 
-I'm interested in collaborating on **AI/ML, NLP, Responsible AI, Healthcare AI, and open-source projects**.
+I'm open to collaborating on **software engineering, AI/ML, backend, NLP, responsible AI, and open-source projects**.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/aryantonyjohnson/">
@@ -117,8 +114,11 @@ I'm interested in collaborating on **AI/ML, NLP, Responsible AI, Healthcare AI, 
   <a href="mailto:aryanjohnson1307@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://github.com/aryantj07">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-<sub>Building at the intersection of research, machine learning, and software engineering.</sub>
+<sub>Building at the intersection of software engineering, machine learning, and applied AI.</sub>
