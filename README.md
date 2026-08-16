@@ -6,7 +6,6 @@ I build **software and AI systems that solve practical problems**, with interest
 
 My background combines **software engineering, applied AI, and research**, from building ML-powered applications and APIs to contributing to healthcare AI systems and responsible AI research.
 
-* 💻 Currently strengthening my **software engineering and backend development** skills through professional training with **Revature and Persistent Systems**
 * 🤖 Building and exploring **AI/ML applications** with Python and modern ML frameworks
 * ⚙️ Interested in **backend systems, APIs, databases, testing, and scalable application development**
 * 🧠 Exploring **LLMs, RAG, and intelligent AI applications**
@@ -33,13 +32,13 @@ My background combines **software engineering, applied AI, and research**, from 
 
 ## Selected Work
 
-### 📄 Resume Intelligence
-
-NLP-based resume analysis and candidate-ranking system using **Python, Streamlit, and Scikit-learn**.
-
 ### ⚖️ EthixAI
 
 AI auditing platform for **fairness analysis, bias detection, explainability, and responsible AI evaluation**.
+
+### 📄 Resume Screener
+
+NLP-based resume analysis and candidate-ranking system using **Python, Streamlit, and Scikit-learn**.
 
 ### 🌍 SAFE-R
 
