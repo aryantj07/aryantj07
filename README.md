@@ -2,15 +2,15 @@
 
 ### AI/ML Engineer · Applied AI · Research
 
-I build machine learning systems that bridge **research and real-world applications**.
+I build **machine learning systems that bridge research and real-world applications**.
 
-My work spans **machine learning, NLP, healthcare AI, responsible AI, and intelligent systems**, with a focus on building practical solutions rather than isolated models.
+My interests span **Machine Learning, Deep Learning, NLP, Healthcare AI, Responsible AI, and intelligent systems**, with a focus on turning ideas and research into practical software.
 
 * 🔬 **Lead author of IEEE and Springer research** in responsible AI and AI-powered recruitment
 * 🏥 **Research experience in Healthcare AI**, working on deep-learning-based medical image segmentation for radiotherapy planning
 * 🧠 Interested in **Machine Learning, Deep Learning, NLP, LLM applications, and reliable AI systems**
-* ⚙️ Currently developing my skills in **PyTorch, RAG, LangChain, AWS, and MLOps**
-* 🚀 Building projects that combine **AI, software engineering, and applied problem-solving**
+* ⚙️ Currently developing skills in **PyTorch, RAG, LangChain, AWS, and MLOps**
+* 🚀 Building projects at the intersection of **AI, software engineering, and applied problem-solving**
 
 ---
 
@@ -18,15 +18,13 @@ My work spans **machine learning, NLP, healthcare AI, responsible AI, and intell
 
 I'm currently focused on moving from **ML experimentation to production-oriented AI engineering**.
 
-Areas I'm actively exploring:
-
 * Deep Learning with **PyTorch**
 * **LLM applications and RAG systems**
 * AI/ML APIs with **FastAPI**
 * Data processing and model evaluation
-* Responsible and explainable AI
+* **Responsible and explainable AI**
 * Cloud deployment and **MLOps**
-* Building maintainable AI applications
+* Building maintainable, production-oriented AI applications
 
 ---
 
@@ -34,31 +32,35 @@ Areas I'm actively exploring:
 
 ### 🧬 Healthcare AI
 
-Worked on a deep learning SaaS platform for **automated organ segmentation in radiotherapy planning**, contributing to medical image preprocessing, segmentation workflows, and model evaluation using metrics such as **Dice coefficient and IoU**.
+Contributed to a deep learning SaaS platform for **automated organ segmentation in radiotherapy planning**, working on medical image preprocessing, segmentation workflows, and model evaluation using **Dice coefficient and IoU**.
 
 ### 📄 NLP & Resume Intelligence
 
-Built an NLP-based resume analysis and candidate-ranking system using **TF-IDF, cosine similarity, Python, Streamlit, and Scikit-learn**, with configurable scoring and recruiter-oriented visualizations.
+Built an NLP-based **resume analysis and candidate-ranking system** using Python, Streamlit, and Scikit-learn. Implemented **TF-IDF, cosine similarity, configurable scoring, keyword highlighting, and recruiter-oriented visualizations**.
 
 ### ⚖️ Responsible AI
 
-Developed **EthixAI**, an AI auditing platform for fairness analysis, bias detection, privacy risk assessment, explainability, and responsible ML evaluation.
+Developed **EthixAI**, an AI auditing platform focused on **fairness analysis, bias detection, privacy risk assessment, explainability, and responsible ML evaluation**.
 
 ### 🌍 Intelligent Disaster Simulation
 
-Working on **SAFE-R**, a disaster simulation and routing system combining physics-based calculations, geospatial visualization, and web technologies to model urban risk and support emergency planning.
+Working on **SAFE-R**, a disaster simulation and routing system combining **physics-based calculations, geospatial visualization, and web technologies** to model urban risk and support emergency planning.
 
 ---
 
 ## Research
 
-I have published and presented research at the intersection of **AI, fairness, and responsible machine learning**.
+My research focuses on **responsible AI, fairness, and bias in intelligent systems**.
 
-* **An Ethical AI Framework for Identifying, Auditing and Mitigating Bias in AI Models**
-  *Lead Author · IEEE ICTCT 2025 · Published in IEEE Xplore*
+### An Ethical AI Framework for Identifying, Auditing and Mitigating Bias in AI Models
 
-* **An Interactive Reverse Turing Test Framework to Uncover Bias in AI-Powered Recruitment**
-  *Lead Author · ASCML 2026, BITS Pilani Goa · Springer Proceedings*
+**Lead Author · IEEE ICTCT 2025 · Published in IEEE Xplore**
+
+[IEEE Xplore — Publication](https://ieeexplore.ieee.org/document/11446876)
+
+### An Interactive Reverse Turing Test Framework to Uncover Bias in AI-Powered Recruitment
+
+**Lead Author · ASCML 2026, BITS Pilani Goa · Springer Proceedings**
 
 ---
 
@@ -106,7 +108,7 @@ I have published and presented research at the intersection of **AI, fairness, a
 
 ## Let's Connect
 
-I'm interested in collaborating on **AI/ML, NLP, responsible AI, healthcare AI, and open-source projects**.
+I'm interested in collaborating on **AI/ML, NLP, Responsible AI, Healthcare AI, and open-source projects**.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/aryantonyjohnson/">
