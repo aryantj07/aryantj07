@@ -1,4 +1,4 @@
-# Hi, I'm Aryan 👋
+# Hi, I'm Aryan!
 
 ### Software Engineer · AI/ML Engineer · Applied AI
 
@@ -6,11 +6,11 @@ I build **software and AI systems that solve practical problems**, with interest
 
 My background combines **software engineering, applied AI, and research**, from building ML-powered applications and APIs to contributing to healthcare AI systems and responsible AI research.
 
-* 🤖 Building and exploring **AI/ML applications** with Python and modern ML frameworks
-* ⚙️ Interested in **backend systems, APIs, databases, testing, and scalable application development**
-* 🧠 Exploring **LLMs, RAG, and intelligent AI applications**
-* 🔬 **Lead author of IEEE and Springer publications** in responsible AI and AI-powered recruitment
-* 🚀 Focused on building strong engineering fundamentals while growing as an **AI/ML engineer**
+* Building and exploring **AI/ML applications** with Python and modern ML frameworks
+* Interested in **backend systems, APIs, databases, testing, and scalable application development**
+* Exploring **LLMs, RAG, and intelligent AI applications**
+* **Lead author of IEEE and Springer publications** in responsible AI and AI-powered recruitment
+* Focused on building strong engineering fundamentals while growing as an **AI/ML engineer**
 
 ---
 
@@ -32,15 +32,15 @@ My background combines **software engineering, applied AI, and research**, from 
 
 ## Selected Work
 
-### ⚖️ EthixAI
+### EthixAI
 
 AI auditing platform for **fairness analysis, bias detection, explainability, and responsible AI evaluation**.
 
-### 📄 Resume Screener
+### Resume Screener
 
 NLP-based resume analysis and candidate-ranking system using **Python, Streamlit, and Scikit-learn**.
 
-### 🌍 SAFE-R
+### SAFE-R
 
 Intelligent disaster simulation and routing system combining **FastAPI, React, Three.js, NumPy, and Pandas**.
 
